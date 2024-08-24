@@ -1,3 +1,8 @@
+# # Hello and Welcome 👋, I'm OLATUNJI DAPO. I AM A 3MTT CYBER-SECURITY FELLOW,COHORT 2
+## I'm a Developer, 3MTT FELLOW ,AND TEACHER
+
+
+
 # 3MMT-ASSIGNMENT-WEEK-1
 # ASSIGNMENT 1
 # Discuss the importance of cybersecurity in today’s digital world using practical
@@ -26,7 +31,11 @@ Phishing attacks, where attackers impersonate legitimate entities to steal sensi
 7. Securing Emerging Technologies
 Example: Internet of Things (IoT) Vulnerabilities
 As more devices become interconnected through the Internet of Things (IoT), the potential for cyberattacks increases. In 2016, the Mirai botnet exploited vulnerabilities in IoT devices to launch one of the largest distributed denial-of-service (DDoS) attacks, taking down major websites like Twitter, Netflix, and Reddit. Securing IoT devices is essential to prevent such disruptions.
+
+
 Conclusion
+
+
 Cybersecurity is not just about protecting computers and networks; it is about safeguarding the digital world in which we live and work. As technology continues to evolve, the importance of cybersecurity will only increase, making it a fundamental aspect of modern society.
 
 # ASSIGNMENT 2
@@ -63,7 +72,12 @@ Analysis: Advanced Persistent Threats (APTs) are highly targeted, stealthy attac
 Example: Edward Snowden (2013)
 What Happened: Edward Snowden, a former contractor for the National Security Agency (NSA), leaked classified information in 2013, revealing the extent of the NSA’s surveillance programs. Snowden used his authorized access to gather and release large amounts of sensitive information, sparking global debates about privacy and government surveillance.
 Analysis: Insider threats involve individuals within an organization who have authorized access to sensitive information and misuse it for unauthorized purposes. These threats can be particularly challenging to detect and prevent, as they involve trusted individuals who may have legitimate access to critical data.
+
+
+
 Conclusion
+
+
 The analysis of these real-world cyber attacks illustrates the variety of cybersecurity threats that organizations and individuals face today. From phishing and ransomware to advanced persistent threats and insider risks, understanding these threats is crucial for developing effective cybersecurity strategies. As technology continues to evolve, so too will the methods used by cybercriminals, making continuous vigilance and adaptation essential for safeguarding digital assets.
 
 
